@@ -57,13 +57,13 @@
 | 05. Oct. 2017  |           |
 | 12. Oct. 2017  |           |
 | 19. Oct. 2017  | Adami     | Daemon
-| 16. Nov. 2017  |Karl       | Datenschutzgrundverordnung
+| 16. Nov. 2017  |           |
 | 23. Nov. 2017  |           |
 | 30. Nov. 2017  |           |
 | 07. Dec. 2017  |           |
 | 14. Dec. 2017  |           |
 | 21. Dec. 2017  |           |
-| 11. Jan. 2018  |           |
+| 11. Jan. 2018  | Gusi      | Cool things you can do with Postman
 | 15. Feb. 2018  |           |
 | 01. Mar. 2018  |           |
 | 15. Mar. 2018  |           |
